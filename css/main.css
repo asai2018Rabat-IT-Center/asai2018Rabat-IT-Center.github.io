@@ -558,7 +558,7 @@ nav {
     line-height: 1.2em;
   }
   .schedule-tbl .schedule-time {
-    width: 80px;
+    width: 100px;
     padding: 10px 0 10px 5px;
     text-align: left;
   }
@@ -657,7 +657,7 @@ nav {
   .schedule-tbl .schedule-description {
     display: none;
   }
-  .schedule-tbl .schedule-slot {
+  .schedule-tbl .schedule-time {
     width: auto;
   }
 }
@@ -669,7 +669,7 @@ nav {
   .schedule-tbl .schedule-description {
     display: none;
   }
-  .schedule-tbl .schedule-slot {
+  .schedule-tbl .schedule-time {
     width: auto;
   }
   /* partners */

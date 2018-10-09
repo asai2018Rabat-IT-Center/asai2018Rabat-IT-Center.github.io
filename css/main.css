@@ -347,8 +347,9 @@ nav {
   letter-spacing: -0.02em;
 }
 .call-action-area .price {
-  font-size: 10em;
-  vertical-align: center;
+  font-size: 3em;
+  vertical-align: right;
+  text-align: right;
   margin-right: 20px;
 }
 .call-action-area .call-action-link,
@@ -531,6 +532,13 @@ nav {
   .about {
     margin: 0;
   }
+  .call-action-area .price {
+    font-size: 3em;
+    vertical-align: right;
+    text-align: right;
+    margin: 0 0 15px;
+    display: block;
+  }
 }
 @media only screen and (min-width: 320px) and (max-width: 800px) {
   /* schedule */
@@ -564,6 +572,13 @@ nav {
   }
   .schedule-tbl td.schedule-description {
     font-size: 12px;
+  }
+  .call-action-area .price {
+    font-size: 2em;
+    vertical-align: right;
+    text-align: right;
+    margin: 0 0 15px;
+    display: block;
   }
   /* partners */
   .sponsor-item,
@@ -604,7 +619,9 @@ nav {
     font-size: 2em;
   }
   .call-action-area .price {
-    font-size: 2em;
+    font-size: 1.5em;
+    vertical-align: right;
+    text-align: right;
     margin: 0 0 15px;
     display: block;
   }
@@ -739,6 +756,8 @@ nav {
 }
 .call-action-area .price {
   color: #fffdf9;
+  vertical-align: right;
+  text-align: right;
 }
 .call-action-area .call-action-link,
 .btn {

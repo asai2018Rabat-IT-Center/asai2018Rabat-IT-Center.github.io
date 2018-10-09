@@ -343,7 +343,7 @@ nav {
 }
 .tagline {
   margin-bottom: 50px;
-  font-size: 2em;
+  font-size: 3em;
   letter-spacing: -0.02em;
 }
 .call-action-area .price {
@@ -601,7 +601,7 @@ nav {
   }
   .tagline {
     margin-bottom: 15px;
-    font-size: 1.4em;
+    font-size: 2em;
   }
   .call-action-area .price {
     font-size: 2em;
